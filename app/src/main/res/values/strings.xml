@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BasketBall Score Counter</string>
+    <string name="score_board">Score Board</string>
+    <string name="team_a">Team A</string>
+    <string name="two_teams_one_match">Two Teams One Match</string>
+    <string name="enter_the_name_of_the_first_team">Enter The Name Of The First Team</string>
+    <string name="enter_the_name_of_the_second_team">Enter The Name Of The Second Team</string>
+    <string name="next"><![CDATA[Next >>>]]></string>
+    <string name="match_results">Match Results</string>
+    <string name="team_b">Team B</string>
+    <string name="has">Has</string>
+    <string name="_0_points">0 points</string>
+    <string name="team_a_wins">Team A wins</string>
+    <string name="play_again">Play Again</string>
+    <string name="view_results">View Results</string>
+    <string name="start_all_over">Start All Over</string>
+    <string name="_1_point">+ 1 point</string>
+    <string name="_00">00</string>
+</resources>
